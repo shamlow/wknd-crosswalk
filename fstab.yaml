@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/wknd-xwalk/main
+    url: https://author-p10929-e707458.adobeaemcloud.com/bin/franklin.delivery/shamlow/wknd-xwalk/main
     type: markup
     suffix: ".html?wcmmode=disabled"
