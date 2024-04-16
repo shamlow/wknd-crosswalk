@@ -7,8 +7,8 @@ Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edg
 - Document based content authoring
 
 ## Environments
-- Preview: https://main--wknd-xwalk--shamlow.hlx.page/
-- Live: https://main--wknd-xwalk--shamlow.hlx.live/
+- Preview: https://main--wknd-crosswalk--shamlow.hlx.page/
+- Live: https://main--wknd-crosswalk--shamlow.hlx.live/
 
 ## Installation
 
