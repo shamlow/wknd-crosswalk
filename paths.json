@@ -1,7 +1,5 @@
 {
   "mappings": [
-    "/:/",
-    "/content/wknd-crosswalk/metadata.json:/metadata.json",
-    "/content/wknd-crosswalk/redirects.json:/redirects.json"
+    "/content/shamlow/wknd-crosswalk/:/"
   ]
 }
